@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 ![](https://github.com/DSCI-310/2023-03-16-penguinclassify/actions/workflows/test-coverage.yaml/badge.svg)
+![](https://github.com/wxw1026/2023-03-16-penguinclassify/actions/workflows/test-coverage.yaml/badge.svg)
 <!-- badges: end -->
 
 The goal of penguinclassify is to …
